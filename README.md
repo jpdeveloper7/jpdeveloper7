@@ -66,7 +66,7 @@ Focused on backend development and building business-oriented solutions using mo
 
 ## 💼 Experience
 
-### Systems & Development Intern — UNIDROGAS S.A.S.
+### **Systems & Development Intern — UNIDROGAS S.A.S.**
 - Development and integration of reports for ERP systems
 - Process automation and data management
 - Support for business software solutions
