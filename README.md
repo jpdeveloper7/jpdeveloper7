@@ -12,23 +12,39 @@ Focused on backend development and building business-oriented solutions using mo
 
 ## 💻 Tech Stack
 
-### Backend
+<table>
+<tr>
+<td valign="top">
+
+## ⚙️ Backend
 - Java
 - Spring Boot
 - REST APIs
 - MySQL
 
-### Frontend
+</td>
+
+<td valign="top">
+
+## 🌐 Frontend
 - React
 - JavaScript
 - HTML
 - CSS
 
-### Tools & Technologies
+</td>
+
+<td valign="top">
+
+## 🛠️ Tools & Technologies
 - Git & GitHub
 - Postman
 - Maven
 - SQL
+
+</td>
+</tr>
+</table>
 
 ---
 
