@@ -17,7 +17,7 @@ Focused on backend development and building business-oriented solutions using mo
 
 <div align="center">
 
-<table width="100%" cellpadding="10">
+<table width="100%">
   <tr>
     <td valign="top" width="600">
       <h3 align="center">⚙️ Backend</h3>
