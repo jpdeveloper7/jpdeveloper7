@@ -19,7 +19,7 @@ Focused on backend development and building business-oriented solutions using mo
 
 <table width="100%">
   <tr>
-    <td valign="top" width="33%">
+    <td valign="top" width="300">
       <h3 align="center">⚙️ Backend</h3>
       <ul align="left">
         <li>Java</li>
