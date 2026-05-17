@@ -15,40 +15,41 @@ Focused on backend development and building business-oriented solutions using mo
 
 ## 💻 Tech Stack
 
+<div align="center">
+
 <table>
-<tr>
-<td valign="top">
-
-## ⚙️ Backend
-- Java
-- Spring Boot
-- REST APIs
-- MySQL
-
-</td>
-
-<td valign="top">
-
-## 🌐 Frontend
-- React
-- JavaScript
-- HTML
-- CSS
-
-</td>
-
-<td valign="top">
-
-## 🛠️ Tools & Technologies
-- Git & GitHub
-- Postman
-- Maven
-- SQL
-
-</td>
-</tr>
+  <tr>
+    <td valign="top" width="33%">
+      <h3 align="center">⚙️ Backend</h3>
+      <ul align="left">
+        <li>Java</li>
+        <li>Spring Boot</li>
+        <li>REST APIs</li>
+        <li>MySQL</li>
+      </ul>
+    </td>
+    <td valign="top" width="33%">
+      <h3 align="center">🌐 Frontend</h3>
+      <ul align="left">
+        <li>React</li>
+        <li>JavaScript</li>
+        <li>HTML</li>
+        <li>CSS</li>
+      </ul>
+    </td>
+    <td valign="top" width="33%">
+      <h3 align="center">🛠️ Tools</h3>
+      <ul align="left">
+        <li>Git & GitHub</li>
+        <li>Postman</li>
+        <li>Maven</li>
+        <li>SQL</li>
+      </ul>
+    </td>
+  </tr>
 </table>
 
+</div>
 ---
 
 ## 💼 Experience
