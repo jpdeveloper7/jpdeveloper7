@@ -51,6 +51,7 @@ Focused on the design and construction of scalable, business-oriented solutions 
       <hr>
       <ul align="left">
         <li>Git & GitHub</li>
+        <li>Linux</li>
         <li>Postman</li>
         <li>Maven</li>
         <li>SQL</li>
