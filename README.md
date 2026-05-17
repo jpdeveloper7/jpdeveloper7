@@ -3,7 +3,7 @@
   Hi there, I'm Pablo 😄 😎 😀 
 </h1>
 
-<h2 align="right">
+<h2 align="center">
   <b>Full Stack Developer | Backend Focused</b>
 </h2>
 
