@@ -25,6 +25,7 @@ Focused on backend development and building business-oriented solutions using mo
       <ul align="left">
         <li>Java</li>
         <li>Spring Boot</li>
+        <li>Python</li>li>
         <li>REST APIs</li>
         <li>MySQL</li>
       </ul>
