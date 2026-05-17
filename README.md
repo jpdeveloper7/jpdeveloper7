@@ -51,6 +51,7 @@ Focused on backend development and building business-oriented solutions using mo
 
 </div>
 
+---
 
 ## 💼 Experience
 
