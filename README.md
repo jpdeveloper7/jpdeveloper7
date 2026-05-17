@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  Hi there, I'm Pablo 😄  
+  Hi there, I'm Juan Pablo 😄  
 </h1>
 
 <h2 align="center">
