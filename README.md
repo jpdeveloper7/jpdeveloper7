@@ -31,6 +31,7 @@ Focused on backend development and building business-oriented solutions using mo
     </td>
     <td valign="top" width="600">
       <h3 align="center">🌐 Frontend</h3>
+      <hr>
       <ul align="left">
         <li>React</li>
         <li>JavaScript</li>
@@ -40,6 +41,7 @@ Focused on backend development and building business-oriented solutions using mo
     </td>
     <td valign="top" width="600">
       <h3 align="center">🛠️ Tools</h3>
+      <hr>
       <ul align="left">
         <li>Git & GitHub</li>
         <li>Postman</li>
