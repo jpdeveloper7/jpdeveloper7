@@ -28,7 +28,7 @@ Focused on backend development and building business-oriented solutions using mo
         <li>MySQL</li>
       </ul>
     </td>
-    <td valign="top" width="33%">
+    <td valign="top" width="600">
       <h3 align="center">🌐 Frontend</h3>
       <ul align="left">
         <li>React</li>
@@ -37,7 +37,7 @@ Focused on backend development and building business-oriented solutions using mo
         <li>CSS</li>
       </ul>
     </td>
-    <td valign="top" width="33%">
+    <td valign="top" width="600">
       <h3 align="center">🛠️ Tools</h3>
       <ul align="left">
         <li>Git & GitHub</li>
