@@ -3,7 +3,10 @@
   Hi there, I'm Pablo 😄 😎 😀 
 </h1>
 
-##  Full Stack Developer | Backend Focused
+<h2 align="left">
+  ##  Full Stack Developer | Backend Focused
+</h2>
+
 
 ### Currently
 ***Pursuing a B.S. in Software Engineering***
