@@ -11,8 +11,8 @@
 ### Currently
 ### ***Pursuing a B.S. in Software Engineering***
 <br><br>
-Passionate about technology, software development, and continuous learning.  
-Focused on backend development and building business-oriented solutions using modern technologies.
+Passionate about software development, backend engineering, and continuous learning.  
+Focused on the design and construction of scalable, business-oriented solutions using modern technologies.
 
 ---
 
