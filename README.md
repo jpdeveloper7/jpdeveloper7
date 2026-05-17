@@ -21,6 +21,7 @@ Focused on backend development and building business-oriented solutions using mo
   <tr>
     <td valign="top" width="600">
       <h3 align="center">⚙️ Backend</h3>
+      <hr>
       <ul align="left">
         <li>Java</li>
         <li>Spring Boot</li>
