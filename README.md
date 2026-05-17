@@ -16,39 +16,43 @@ Focused on backend development and building business-oriented solutions using mo
 ## 💻 Tech Stack
 
 <div align="center">
-
-<table width="100%">
-  <tr>
-    <td valign="top" width="33%">
-      <h3 align="center">⚙️ Backend</h3>
-      <ul align="left">
-        <li>Java</li>
-        <li>Spring Boot</li>
-        <li>REST APIs</li>
-        <li>MySQL</li>
-      </ul>
-    </td>
-    <td valign="top" width="33%">
-      <h3 align="center">🌐 Frontend</h3>
-      <ul align="left">
-        <li>React</li>
-        <li>JavaScript</li>
-        <li>HTML</li>
-        <li>CSS</li>
-      </ul>
-    </td>
-    <td valign="top" width="33%">
-      <h3 align="center">🛠️ Tools</h3>
-      <ul align="left">
-        <li>Git & GitHub</li>
-        <li>Postman</li>
-        <li>Maven</li>
-        <li>SQL</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
+  <table width="100%">
+    <thead>
+      <tr>
+        <th width="33%">⚙️ Backend</th>
+        <th width="33%">🌐 Frontend</th>
+        <th width="33%">🛠️ Tools</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td valign="top">
+          <ul align="left">
+            <li>Java</li>
+            <li>Spring Boot</li>
+            <li>REST APIs</li>
+            <li>MySQL</li>
+          </ul>
+        </td>
+        <td valign="top">
+          <ul align="left">
+            <li>React</li>
+            <li>JavaScript</li>
+            <li>HTML</li>
+            <li>CSS</li>
+          </ul>
+        </td>
+        <td valign="top">
+          <ul align="left">
+            <li>Git & GitHub</li>
+            <li>Postman</li>
+            <li>Maven</li>
+            <li>SQL</li>
+          </ul>
+        </td>
+      </tr>
+    </tbody>
+  </table>
 </div>
 
 ---
