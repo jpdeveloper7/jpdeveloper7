@@ -2,7 +2,7 @@
 
 ##  Full Stack Developer | Backend Focused
 
-## Currently
+### Currently
 **Pursuing a B.S. in Software Engineering**
 
 Passionate about technology, software development, and continuous learning.  
