@@ -44,7 +44,6 @@ Focused on backend development and building business-oriented solutions using mo
         <li>Postman</li>
         <li>Maven</li>
         <li>SQL</li>
-        
       </ul>
     </td>
   </tr>
