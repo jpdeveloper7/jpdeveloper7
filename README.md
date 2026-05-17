@@ -76,7 +76,7 @@ Focused on backend development and building business-oriented solutions using mo
 
 ## 📚 Education
 
-**Technologist in Software Analysis and Development (ADSO)**  
+###**Technologist in Software Analysis and Development (ADSO)**  
 Servicio Nacional de Aprendizaje — SENA  
 *(Certification pending)*
 
