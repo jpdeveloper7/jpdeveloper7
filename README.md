@@ -45,6 +45,7 @@ Focused on backend development and building business-oriented solutions using mo
         <li>Maven</li>
         <li>SQL</li>
       </ul>
+      <br>
     </td>
   </tr>
 </table>
