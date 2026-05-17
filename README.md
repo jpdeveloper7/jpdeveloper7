@@ -4,7 +4,7 @@
 </h1>
 
 <h2 align="right">
-  ##  Full Stack Developer | Backend Focused
+    Full Stack Developer | Backend Focused
 </h2>
 
 
