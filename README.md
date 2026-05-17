@@ -62,9 +62,9 @@ Servicio Nacional de Aprendizaje — SENA
 
 ## 📫 Contact
 
-- GitHub: https://github.com/TU-USUARIO
-- LinkedIn: www.linkedin.com/in/TU-LINKEDIN
-- Email: tu-correo@example.com
+- GitHub: https://github.com/jpdeveloper7
+- LinkedIn: https://www.linkedin.com/in/juan-pablo-arenas-developer/
+- Email: jp.developer94@gmail.com
 
 ---
 
