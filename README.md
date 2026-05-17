@@ -4,8 +4,7 @@
 
 ### Currently
 ***Pursuing a B.S. in Software Engineering***
-
-
+<br><br>
 Passionate about technology, software development, and continuous learning.  
 Focused on backend development and building business-oriented solutions using modern technologies.
 
