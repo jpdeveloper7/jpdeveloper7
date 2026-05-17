@@ -30,6 +30,7 @@ Focused on backend development and building business-oriented solutions using mo
         <li>REST APIs</li>
         <li>MySQL</li>
       </ul>
+      <br>
     </td>
     <td valign="top" width="600">
       <h3 align="center">🌐 Frontend</h3>
@@ -40,6 +41,7 @@ Focused on backend development and building business-oriented solutions using mo
         <li>HTML</li>
         <li>CSS</li>
       </ul>
+      <br>
     </td>
     <td valign="top" width="600">
       <h3 align="center">🛠️ Tools</h3>
